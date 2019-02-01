@@ -1,5 +1,6 @@
 Hello World
 Line 1
 Line 3. master branch
-=======
 Line 2. featureA
+Line 2. featureA
+Line 4. featureB
