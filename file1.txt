@@ -1,3 +1,4 @@
 Hello World
 Line 1
 Line 2. featureA
+Line 4. featureB
